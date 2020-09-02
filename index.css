@@ -108,6 +108,9 @@ margin-left: 30%
 
 .hero-image {
     background-image: src="assets/footer_img.jpg";
+    background-position: center;
+    background-size: stretch;
+   margin: auto 0;
 }
 
 
